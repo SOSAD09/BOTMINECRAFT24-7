@@ -1,12 +1,3 @@
-Nombre del primer archivo: bot.js
-Codigo del primer archivo:
-
-
-
-
-
-
-
 const mineflayer = require('mineflayer');
 
 function createBot() {
